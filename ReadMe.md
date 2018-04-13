@@ -5,6 +5,4 @@ An interactive visualization of Earthquakes on Maps (JAVA)
 • The app is an interactive GUI visualization map using PApplet which uses live RSS feed from the USGS to display the
 location, magnitude, and potential impact of earthquakes around the world
 
-![unfloding map 2](https://user-images.githubusercontent.com/33382057/38718469-2271c266-3ea2-11e8-99b9-47313525e3a3.png)
-
-![untitledcoursera unflodingmap](https://user-images.githubusercontent.com/33382057/38718470-228ed87e-3ea2-11e8-87ea-66ecb161d121.png)
+![unfloding map 2](https://user-images.githubusercontent.com/33382057/38718495-44ea1ee2-3ea2-11e8-9b10-ecd50fffe487.png)
